@@ -1,0 +1,15 @@
+{
+  "name": "test-cafe-example",
+  "version": "1.0.0",
+  "description": "This guide will help you set up and use TestCafe for our end-to-end testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/ --reporter html:reports/report.html -s path=reports/screenshots/,takeOnFails=true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^3.3.0",
+    "testcafe-reporter-html": "^1.4.6"
+  }
+}
