@@ -26,7 +26,7 @@ TestCafe is a powerful, open-source tool to automate end-to-end web testing. It 
 
 2. **Concurrency**: TestCafe supports concurrent test execution out-of-the-box. You can run tests in multiple browsers simultaneously.
 
-3. **Cross-browser Support**: TestCafe works in various browsers, including Chrome, Firefox, Safari, and Internet Explorer 11, without additional plugins.
+3. **Cross-browser Support**: TestCafe works in various browsers, including Chrome, Firefox, Safari, and Edge without additional plugins.
 
 4. **Integrated Test Runner**: TestCafe provides its own test runner, so you don’t need a separate tool like Mocha or Jasmine.
 
